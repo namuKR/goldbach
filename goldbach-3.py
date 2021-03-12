@@ -23,6 +23,6 @@ for i in range(2, number-3):
                             break
                     else:
                         a__ = _
-                        if (i__ + v__ + a__ == 26):
+                        if (i__ + v__ + a__ == number):
                             print(i__, v__, a__)
                     
